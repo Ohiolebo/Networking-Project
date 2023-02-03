@@ -24,7 +24,7 @@ include_once "component/style.php";
                         <div class="body">
                             <form class="form-auth-small">
                                 <div class="form-group">
-                                    <label for="signup-email" class="control-label sr-only">Email</label>
+                                <label for="signup-email" class="control-label sr-only">Email</label>
                                     <input type="email" class="form-control" id="signup-email" placeholder="Email">
                                 </div>
                                 <div class="form-group">
