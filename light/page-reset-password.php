@@ -20,17 +20,20 @@
                     </div>
                     <div class="card">
                         <div class="header">
-                            <p class="lead">Login</p>
+                            <p class="lead">Reset Password</p>
                         </div>
                         <div class="body">
                             <form class="form-auth-small" action="index.php">
                                 <div class="form-group">
                                     <label for="signin-email" class="control-label sr-only">Email</label>
-                                    <input type="email" class="form-control" id="signin-email" placeholder="Email">
+                                    <input type="email" class="form-control" id="signin-email" placeholder="Password">
                                 </div>
                                 <div class="form-group">
+                                <div class="form-label">
+								Username<span class="required error" id="username-info"></span>
+							</div>
                                     <label for="signin-password" class="control-label sr-only">Password</label>
-                                    <input type="password" class="form-control" id="signin-password" placeholder="Password">
+                                    <input type="password" class="form-control" id="signin-password" placeholder="Confirm Password">
                                 </div>
                                 
                                 <div class="form-check">

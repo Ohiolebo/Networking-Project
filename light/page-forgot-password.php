@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-<title>:: Lucid :: 403</title>
+<title>:: Lucid :: Forgot Password</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -30,18 +30,19 @@
                     </div>
 					<div class="card">
                         <div class="header">
-                            <h3>
-                                <span class="clearfix title">
-                                    <span class="number left">Error</span> <span class="text">403 <br/>Forbiddon Error!</span>
-                                </span>
-                            </h3>
+                            <p class="lead">Recover my password</p>
                         </div>
                         <div class="body">
-                            <p>You don't have permission to access / on this server.</p>
-                            <div class="margin-top-30">
-                                <a href="javascript:history.go(-1)" class="btn btn-default"><i class="fa fa-arrow-left"></i> <span>Go Back</span></a>
-                                <a href="index.html" class="btn btn-primary"><i class="fa fa-home"></i> <span>Home</span></a>
-                            </div>
+                            <p>Please enter your email address below to receive instructions for resetting password.</p>
+                            <form class="form-auth-small" action="index.html">
+                                <div class="form-group">                                    
+                                    <input type="email" class="form-control" id="signup-password" placeholder="Email">
+                                </div>
+                                <button type="submit" class="btn btn-primary btn-lg btn-block">RESET PASSWORD</button>
+                                <div class="bottom">
+                                    <span class="helper-text">Know your password? <a href="page-login.php">Login</a></span>
+                                </div>
+                            </form>
                         </div>
                     </div>
 				</div>
