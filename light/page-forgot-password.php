@@ -19,7 +19,7 @@
 <link rel="stylesheet" href="assets/css/color_skins.css">
 </head>
 
-<body class="theme-cyan">
+<body>
 	<!-- WRAPPER -->
 	<div id="wrapper">
 		<div class="vertical-align-wrap">
