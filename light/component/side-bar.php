@@ -41,46 +41,25 @@
                             <a href="user-dir.php"><i class="icon-home"></i> <span>Dashboard</span></a>
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="https://cdn-icons-png.flaticon.com/512/9319/9319695.png" height="20px" width="20px" class="m-r-10"> <span>Referal bonus</span></a>
-                            <!-- <ul>
-                                <li><a href="patient.php">Manage Patient</a></li>
-                            </ul> -->
+                            <a href="#" class="has-arrow"><img src="../assets/images/bonus.png" height="25px" width="25px" class="m-r-10"> <span>Referral bonus</span></a>
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="https://cdn-icons-png.flaticon.com/512/3017/3017149.png" height="20px" width="20px" class="m-r-10"> <span>Repurchasing Bonus</span></a>
-                            <!-- <ul>
-                                <li><a href="employee.php">Manage Employee</a></li>
-                            </ul> -->
+                            <a href="#" class="has-arrow"><img src="../assets/images/credit-card.png" height="20px" width="20px" class="m-r-10"> <span>Repurchasing Bonus</span></a>
                         </li>
                         <li>
                             <a href="#" class="has-arrow"><img src="../assets/images/upgrade.png" height="20px" width="20px" class="m-r-10"> <span>Upgrade Bonus</span></a>
-                            <!-- <ul>
-                                <li><a href="blog-details.html">Manage Pharmaceuticals</a></li>
-                            </ul> -->
                         </li>
                         <li>
                             <a href="#" class="has-arrow"><img src="../assets/images/gift.png" height="20px" width="20px" class="m-r-5">  <span>Reward and Reco. Bonus</span></a>
-                            <!-- <ul>
-                                <li><a href="account.php">Manage Account</a></li>
-                            </ul> -->
                         </li>
                         <li>
                             <a href="#" class="has-arrow"><img src="../assets/images/bar-chart.png" height="20px" width="20px" class="m-r-10"> <span>Stockish Commission</span></a>
-                            <!-- <ul>
-                                <li><a href="inventory.php">Manage Asssets</a></li>
-                            </ul> -->
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="../assets/images/bar-chart.png" height="20px" width="20px" class="m-r-10"> <span>Withdarwal</span></a>
-                            <!-- <ul>
-                                <li><a href="inventory.php">Manage Asssets</a></li>
-                            </ul> -->
+                            <a href="#" class="has-arrow"><img src="../assets/images/money-withdrawal.png" height="20px" width="20px" class="m-r-10"> <span>Withdarwal</span></a>
                         </li>
                         <li>
-                            <a href="#" class="has-arrow"><img src="../assets/images/bar-chart.png" height="20px" width="20px" class="m-r-10"> <span>Log Out</span></a>
-                            <!-- <ul>
-                                <li><a href="inventory.php">Manage Asssets</a></li>
-                            </ul> -->
+                            <a href="#"><span>Log Out</span></a>
                         </li>
                         
                     </ul>
